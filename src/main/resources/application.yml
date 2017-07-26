@@ -1,0 +1,10 @@
+logging:
+  level:
+    com:
+      sarab: 
+        demo: DEBUG
+      
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: update

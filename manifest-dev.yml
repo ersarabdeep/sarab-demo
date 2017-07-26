@@ -1,0 +1,5 @@
+---
+inherit: manifest.yml
+env:
+  SPRING_PROFILES_ACTIVE: dev
+  

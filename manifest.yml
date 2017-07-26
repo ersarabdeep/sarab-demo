@@ -1,0 +1,8 @@
+applications:
+- name: sarab-demo
+  path: build/libs/sarab-demo-0.0.1-SNAPSHOT.jar
+  host: sarab-demo
+  memory: 1G
+services:- config-server
+
+  
